@@ -67,6 +67,10 @@ body {
   top: 55px;
 }
 
+.img-bg-pattern-desktop {
+  width: 50px;
+}
+
 /* Attribution */
 .attribution {
   font-size: 11px;
