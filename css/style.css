@@ -47,6 +47,13 @@ body {
 
 .card-question {
   font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-question img {
+  height: 10px;
 }
 
 .card-question:hover {
