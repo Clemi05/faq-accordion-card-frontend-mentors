@@ -20,7 +20,7 @@ body {
 }
 
 .border-bottom {
-  border-bottom: 1px solid hsl(240, 6%, 50%);
+  border-bottom: 1px solid hsl(240, 5%, 91%);
 }
 
 /* Card */
@@ -35,13 +35,21 @@ body {
 }
 
 .card-details {
-  padding: 60px 80px 60px 40px;
+  padding: 60px 80px 60px 80px;
 }
 
 .card-title h1 {
   font-weight: 700;
   font-size: 25px;
   padding-bottom: 10px;
+}
+
+.card-question {
+  font-size: 15px;
+}
+
+.card-question:hover {
+  font-weight: 700;
 }
 
 /* Attribution */
