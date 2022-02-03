@@ -13,13 +13,16 @@
 }
 
 .card-content {
-  padding: 60px 80px 60px 80px;
+  padding: 65px 95px 0 0;
+  width: 100%;
+  max-width: 445px;
 }
 
 .card-title h1 {
   font-weight: 700;
-  font-size: 25px;
+  font-size: 30px;
   padding-top: 10px;
+  color: hsl(14, 88%, 65%);
 }
 
 .card-faq {
@@ -32,6 +35,7 @@
   justify-content: space-between;
   align-items: center;
   padding-bottom: 10px;
+  transition: color 250ms ease-in-out;
 }
 
 .card-question img {
@@ -39,5 +43,31 @@
 }
 
 .card-question:hover {
-  font-weight: 700;
+  color:hsl(14, 88%, 65%);
+}
+
+
+/* Card Img */
+
+.card-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: no-repeat url("../images/bg-pattern-desktop.svg");
+  background-position: 120% 65%;
+  background-size: 200%;
+  min-height: 500px;
+}
+
+.card-img-box {
+  position: absolute;
+  left: -93px;
+  top: 187px;
+}
+
+.card-img-woman {
+  position: relative;
+  right: 77px;
+  top: 14px;
 }

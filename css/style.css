@@ -14,7 +14,6 @@
   padding: 0;
 }
 
-
 body {
   background: linear-gradient(rgb(175, 103, 233), rgb(101, 101, 231));
   background-repeat: no-repeat;
@@ -31,36 +30,6 @@ body {
 
 .border-bottom {
   border-bottom: 1px solid hsl(240, 5%, 91%);
-}
-
-/* Images */
-
-.card-img {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  overflow: hidden;
-  background: no-repeat url("../images/bg-pattern-desktop.svg");
-  background-position: 120% 65%;
-  background-size: 200%;
-  min-height: 500px;
-}
-
-.card-img-box {
-  position: absolute;
-  left: -93px;
-  top: 187px;
-}
-
-.card-img-woman {
-  position: relative;
-  right: 88px;
-}
-
-.card-img-bg-pattern {
-  position: absolute;
-  left: -572px;
-  top: -309px;
 }
 
 /* Attribution */
