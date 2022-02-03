@@ -70,20 +70,20 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  background: no-repeat url(./assets/bg-pattern-desktop.svg);
+  background: no-repeat url("../images/bg-pattern-desktop.svg");
   background-position: 120% 65%;
   background-size: 200%;
   min-height: 500px;
 }
 
-.img-box-desktop {
+.card-img-box {
   position: absolute;
   left: -93px;
   top: 187px;
   z-index: 1;
 }
 
-.img-woman-online-desktop {
+.card-img-woman {
   position: relative;
   left: -72px;
   top: 55px;
