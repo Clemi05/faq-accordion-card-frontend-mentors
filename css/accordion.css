@@ -1,0 +1,20 @@
+.accordion-faq {
+  padding-top: 10px;
+}
+
+.accordion-question {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  transition: color 250ms ease-in-out;
+}
+
+.accordion-question img {
+  height: 10px;
+}
+
+.accordion-question:hover {
+  color:hsl(14, 88%, 65%);
+}
