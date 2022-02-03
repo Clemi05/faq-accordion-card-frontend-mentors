@@ -4,7 +4,6 @@ function toggleAccordion(num, totalAccordions) {
     if (index + 1 === num) {
       continue;
     }
-
     document.getElementById(`accordion-${index + 1}`).classList.remove('accordion-toggled');
   }
 

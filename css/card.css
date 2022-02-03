@@ -49,3 +49,31 @@
   right: 77px;
   top: 14px;
 }
+
+.card-img-woman-mobile {
+  display: none;
+}
+
+/* Media queries */
+@media (max-width: 1250px) {
+  .card-img-box {
+    max-width: 150px;
+    left: -7%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .card-img-box {
+    max-width: 110px;
+    left: -6%;
+    top: 45%;
+  }
+}
+
+@media (max-width: 950px) {
+  .card-img-box {
+    max-width: 90px;
+    left: -5.5%;
+    top: 46%;
+  }
+}

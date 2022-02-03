@@ -46,3 +46,10 @@ body {
 .attribution a:hover {
   text-decoration: underline;
 }
+
+/* Media queries */
+@media screen and (max-width: 450px) {
+  body {
+    padding: 75px 23px;
+  }
+}
