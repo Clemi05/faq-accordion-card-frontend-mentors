@@ -8,7 +8,6 @@
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
-  /* padding-bottom: 10px; */
   transition: color 250ms ease-in-out;
 }
 
@@ -35,4 +34,20 @@
   color:hsl(240, 6%, 50%);
   overflow: hidden;
   max-height: 0;
+}
+
+.accordion-toggled .accordion-btn-toggle {
+  transform: rotate(-180deg);
+  transition: all 200ms ease-in-out;
+}
+
+.accordion-toggled .accordion-question {
+  color: hsl(238, 29%, 16%);
+  font-weight: 700;
+}
+
+.accordion-toggled .accordion-answer {
+  max-height: 500px;
+  transition: max-height 200ms ease-in-out;
+  margin-top: 10px;
 }
