@@ -90,7 +90,7 @@
     padding: 132px 25px 48px 25px;
   }
 
-  .card-title {
+  .card-title h1 {
     display: block;
     text-align: center;
   }
@@ -109,15 +109,35 @@
     display: block;
   }
 
-  .card-img-container {
+  .card-img {
     display: block;
     position: absolute;
     top: -109px;
     left: 48%;
     transform: translateX(-50%);
-    background: no-repeat url(./assets/bg-pattern-mobile.svg);
+    background: no-repeat url("../images/bg-pattern-mobile.svg");
     background-position: 100% 95%;
     background-size: 90%;
     min-height: 0;
+  }
+}
+
+@media (max-width: 450px) {
+  .card-content {
+    padding-top: 120px;
+  }
+
+  .card-img-woman {
+    max-width: 240px;
+  }
+
+  .card-img {
+    background-position: 100% 85%;
+    top: -98px;
+    left: 45%;
+  }
+
+  .card-title h1 {
+    margin-bottom: 38px;
   }
 }
