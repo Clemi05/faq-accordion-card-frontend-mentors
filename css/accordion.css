@@ -20,7 +20,7 @@
   color: hsl(237, 12%, 33%);
 }
 
-.accordion-question:hover {
+.accordion-question-container:hover .accordion-question {
   color:hsl(14, 88%, 65%);
 }
 
