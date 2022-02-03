@@ -1,0 +1,43 @@
+/* Card */
+.card {
+  width: 100%;
+  max-width: 920px;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 50px 40px rgba(0,0,0,0.2);
+  position: relative;
+  margin: 0 auto;
+}
+
+.card-content {
+  padding: 60px 80px 60px 80px;
+}
+
+.card-title h1 {
+  font-weight: 700;
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+.card-faq {
+  padding-top: 10px;
+}
+
+.card-question {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.card-question img {
+  height: 10px;
+}
+
+.card-question:hover {
+  font-weight: 700;
+}
