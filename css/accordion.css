@@ -1,3 +1,4 @@
+/* Accordions CSS */
 .accordion-faq {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -35,6 +36,8 @@
   overflow: hidden;
   max-height: 0;
 }
+
+/* Accordion toggle */
 
 .accordion-toggled .accordion-btn-toggle {
   transform: rotate(-180deg);

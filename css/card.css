@@ -57,14 +57,14 @@
 
 /* Card Media queries */
 
-@media (max-width: 1250px) {
+@media screen and (max-width: 1250px) {
   .card-img-box {
     max-width: 150px;
     left: -7%;
   }
 }
 
-@media (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
   .card-img-box {
     max-width: 110px;
     left: -6%;
@@ -72,7 +72,7 @@
   }
 }
 
-@media (max-width: 950px) {
+@media screen and (max-width: 950px) {
   .card-img-box {
     max-width: 90px;
     left: -5.5%;
@@ -80,7 +80,7 @@
   }
 }
 
-@media (max-width: 900px) {
+@media screen and (max-width: 900px) {
   .card {
     flex-direction: column;
   }
@@ -94,6 +94,7 @@
     display: block;
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .card-img-woman {
@@ -112,8 +113,8 @@
   .card-img {
     display: block;
     position: absolute;
-    top: -109px;
-    left: 48%;
+    top: -20%;
+    left: 49%;
     transform: translateX(-50%);
     background: no-repeat url("../images/bg-pattern-mobile.svg");
     background-position: 100% 95%;
@@ -135,9 +136,5 @@
     background-position: 100% 85%;
     top: -98px;
     left: 50%;
-  }
-
-  .card-title h1 {
-    margin-bottom: 25px;
   }
 }
