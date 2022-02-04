@@ -98,7 +98,7 @@
   }
 
   .card-img-woman {
-    margin-bottom: 15px;
+    margin-bottom: 40px;
     right: 0;
   }
 
@@ -113,11 +113,11 @@
   .card-img {
     display: block;
     position: absolute;
-    top: -20%;
+    top: -27%;
     left: 49%;
     transform: translateX(-50%);
     background: no-repeat url("../images/bg-pattern-mobile.svg");
-    background-position: 100% 95%;
+    background-position: 49% 98%;
     background-size: 90%;
     min-height: 0;
   }
@@ -129,12 +129,12 @@
   }
 
   .card-img-woman {
-    max-width: 240px;
+    max-width: 260px;
   }
 
   .card-img {
-    background-position: 100% 85%;
-    top: -98px;
-    left: 50%;
+    background-position: 49% 98%;
+    top: -132px;
+    left: 49%;
   }
 }
