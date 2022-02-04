@@ -13,8 +13,12 @@ function toggleAccordion(num, totalAccordions) {
   document.getElementById(`accordion-${num}`).classList.toggle('accordion-toggled');
 }
 
-
 /* Option 2 */
+
+
+
+/* Option 3 - W3Schools */
+/* Issue with this one */
 // var acc = document.getElementsByClassName("accordion-faq");
 // var index;
 
@@ -28,5 +32,4 @@ function toggleAccordion(num, totalAccordions) {
 //       accAnswer.style.maxHeight = accAnswer.scrollHeight + "px";
 //     }
 //   });
-
 // }
