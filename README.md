@@ -28,7 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop Screenshot
+![Desktop Screenshot](./images/faq-accordion-card-frontend-mentors_desktop-screenshot.png)
+
+Mobile Screenshot
+![Mobile Screenshot](./images/faq-accordion-card-frontend-mentors_mobile-screenshot.png)
 
 
 ### Links
