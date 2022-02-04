@@ -50,12 +50,12 @@ Users should be able to:
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [How to create an accordion - W3Schools](https://www.w3schools.com/howto/howto_js_accordion.asp) - This helped me to make the JS code to create the accordion.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [How to create an accordion - W3Schools](https://www.w3schools.com/howto/howto_js_accordion.asp) - This helped me to make the JS code to create the accordion animation (Option 3).
+- [Building an Accordion with Vanilla JavaScript](https://javascript.plainenglish.io/building-an-accordion-with-vanilla-javascript-8440ab8f07ff) - This helped me to make the JS code to create the accordion animation (Option 2).
+- [FAQ accordion Card Solution](https://lm-faq-accordion-card.netlify.app/) - This helped me to make the JS code to create the accordion animation (Option 1).
 
 ## Author
 
