@@ -32,10 +32,10 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  overflow: hidden;
   background: no-repeat url("../images/bg-pattern-desktop.svg");
   background-position: 120% 65%;
   background-size: 200%;
+  overflow: hidden;
   min-height: 500px;
 }
 
@@ -93,15 +93,15 @@
   .card-title h1 {
     display: block;
     text-align: center;
+    padding-top: 20px;
   }
 
   .card-img-woman {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     right: 0;
   }
 
-  .card-img-woman-desktop,
-  .card-img-box {
+  .card-img-woman-desktop, .card-img-box {
     display: none;
   }
 
@@ -134,10 +134,10 @@
   .card-img {
     background-position: 100% 85%;
     top: -98px;
-    left: 45%;
+    left: 50%;
   }
 
   .card-title h1 {
-    margin-bottom: 38px;
+    margin-bottom: 25px;
   }
 }
