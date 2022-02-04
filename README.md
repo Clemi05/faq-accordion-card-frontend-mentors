@@ -29,16 +29,18 @@ Users should be able to:
 ### Screenshot
 
 Desktop Screenshot
+
 ![Desktop Screenshot](./images/faq-accordion-card-frontend-mentors_desktop-screenshot.png)
 
 Mobile Screenshot
+
 ![Mobile Screenshot](./images/faq-accordion-card-frontend-mentors_mobile-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here to see the solution](https://your-solution-url.com)
+- Live Site URL: [Click here to see the live site](https://your-live-site-url.com)
 
 ## My process
 
