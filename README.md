@@ -43,12 +43,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- JS
+- Vanilla JS
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will focus on building challenges/projects, doing some online trainings and looking up some documentations
+in order to improve my JavaScript skills.
 
 
 ### Useful resources
