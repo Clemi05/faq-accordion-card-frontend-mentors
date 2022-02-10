@@ -1,6 +1,11 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
+
+/* Components files */
+@import url("/css/components/accordion.css");
+@import url("/css/components/card.css");
+
 /* Initial CSS */
 
 * {
